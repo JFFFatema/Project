@@ -1,1 +1,1 @@
-# Project
+Edge Course Project
